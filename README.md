@@ -70,13 +70,13 @@ Para execução deste script foi necessário a instalação das bibliotecas pand
 
 ### Importação das Bibliotecas
 
-**import pandas as pd**: Importa a biblioteca pandas e a atribui ao alias pd. Pandas é utilizada para manipulação e análise de dados.
+   **import pandas as pd**: Importa a biblioteca pandas e a atribui ao alias pd. Pandas é utilizada para manipulação e análise de dados.
 
-**from sklearn.model_selection import train_test_split**: Importa a função train_test_split da biblioteca scikit-learn, usada para dividir os dados em conjuntos de treinamento e teste.
+   **from sklearn.model_selection import train_test_split**: Importa a função train_test_split da biblioteca scikit-learn, usada para dividir os dados em conjuntos de treinamento e teste.
 
-**from sklearn.tree import DecisionTreeClassifier**: Importa a classe DecisionTreeClassifier da biblioteca scikit-learn, usada para criar e treinar o modelo de árvore de decisão.
+   **from sklearn.tree import DecisionTreeClassifier**: Importa a classe DecisionTreeClassifier da biblioteca scikit-learn, usada para criar e treinar o modelo de árvore de decisão.
 
-**from sklearn.metrics import accuracy_score**: Importa a função accuracy_score da biblioteca scikit-learn, usada para calcular a acurácia do modelo.
+   **from sklearn.metrics import accuracy_score**: Importa a função accuracy_score da biblioteca scikit-learn, usada para calcular a acurácia do modelo.
 
 
 
