@@ -1,0 +1,11 @@
+idade;renda;historico_credito;emprego;propriedade;classe
+25;3000;ruim;desempregado;nao;negar
+45;5000;bom;empregado;sim;conceder
+35;4000;ruim;empregado;nao;negar
+50;6000;bom;empregado;sim;conceder
+23;2000;ruim;desempregado;nao;negar
+40;5500;bom;empregado;sim;conceder
+60;8000;bom;empregado;sim;conceder
+48;4500;ruim;empregado;nao;negar
+33;3500;bom;empregado;sim;conceder
+55;7000;bom;empregado;sim;conceder
